@@ -3,3 +3,4 @@
 C:\Users\visus\OneDrive\Desktop\Projects\starter-web>IF NOT DEFINED ACC (SET ACC="NewTestFile" )  ELSE IF "" == "" (SET ACC= "NewTestFile" )  ELSE (SET ACC="NewTestFile" ) 
 
 C:\Users\visus\OneDrive\Desktop\Projects\starter-web>IF NOT DEFINED ACC (SET ACC="NewTestFile" )  ELSE IF "" == "" (SET ACC="NewTestFile" "NewTestFile" )  ELSE (SET ACC="NewTestFile""NewTestFile" ) 
+
